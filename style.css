@@ -1,0 +1,50 @@
+.column{
+    width: 30%;
+    float: left;
+}
+.a:hover{
+    box-shadow:  8px 12px 8px yellow;
+    
+}
+.a{
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 8px 15px;
+    padding: 5px;
+    margin:35px;
+    box-shadow: 8px 12px 8px violet;
+
+}
+h1{
+    color:yellow;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 5px 10px 5px red;
+}
+.ten{
+    font-size:larger;
+    font-variant:normal;
+    color:blueviolet;
+   
+}
+.a img{
+    height: 170px;
+    width:150px ;
+    border-radius: 8px 15px;
+}
+.giamoi b{
+    color: red;
+    font-weight: bold;
+}
+.giacu del{
+    color:gray;
+}
+
+
+.a>a:hover{
+   color:greenyellow; 
+}
+
+
+
+
+
